@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "state",
+=======
+  "name": "props",
+>>>>>>> 79982e6 (props)
   "version": "0.1.0",
   "private": true,
   "dependencies": {
