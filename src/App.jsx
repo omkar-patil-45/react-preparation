@@ -1,12 +1,13 @@
-import "./App.css";
-import Rendering from "./Component/Rendering";
+import './App.css'
+import Rendering from './Component/Rendering'
 
 function App() {
+
   return (
     <>
-      <Rendering />
+      <Rendering/>
     </>
-  );
+  )
 }
 
-export default App;
+export default App
